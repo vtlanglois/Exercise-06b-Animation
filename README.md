@@ -2,7 +2,7 @@
 
 Exercise for MSCH-C220, 11 November 2021
 
-A demonstration of this exercise is available at [https://youtu.be/50En1KTlLKA](https://youtu.be/50En1KTlLKA)
+A demonstration of this exercise is available at [https://youtu.be/50En1KTlLKA](https://youtu.be/50En1KTlLKA) (This exercise was previously 06a, so don't let that confuse you).
 
 ---
 
